@@ -1,0 +1,3 @@
+interface Walker {
+  void pattern();
+}
